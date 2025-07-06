@@ -5,7 +5,7 @@
 
 ### 🌱 Currently Learning
 - 📘 **Kotlin** for modern Android development  
-- 🗄️ **Databases** to build smarter and data-driven apps
+- 🗄️ **Python Development** to build smarter websites
 
 ### 📫 Let's Connect
 Feel free to reach out or collaborate with me!  

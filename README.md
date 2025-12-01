@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shweta Patil</h1>
-<h3 align="center">🚀 Passionate Android App Developer | Lifelong Learner from India 🇮🇳</h3>
+<h3 align="center">💻 Software Developer | Android & Web Developer | Lifelong Learner from India 🇮🇳</h3>
+
+---
+
+### 🌱 Currently Working As
+- 💼 **Software Developer**  
+- 🔧 Building real-world applications using **Java, Python, Android Studio, Flask, and modern web technologies**
 
 ---
 
 ### 🌱 Currently Learning
-- 📘 **Kotlin** for modern Android development  
-- 🗄️ **Python Development** to build smarter websites
+- 📘 **Database** 
+- 🌐 **Full Stack Development** (HTML, CSS, JavaScript, Tailwind, Flask, MongoDB)
+
+---
 
 ### 📫 Let's Connect
 Feel free to reach out or collaborate with me!  
@@ -33,26 +41,26 @@ Feel free to reach out or collaborate with me!
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" />
-  </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
+  </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
   </a>
 </p>
 
@@ -66,9 +74,8 @@ Feel free to reach out or collaborate with me!
 ---
 
 ### 💬 A Little About Me
-> "Turning ideas into apps is my superpower. I'm always curious to learn, explore, and create beautiful mobile experiences that make a difference."
+> "As a Software Developer, I love turning ideas into meaningful applications—whether it's an Android app, a backend service, or a full-stack project. I’m curious, driven, and always excited to learn and build something impactful."
 
 ---
 
 🌟 _Thanks for visiting my profile! Let's build something amazing together._
-

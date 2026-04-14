@@ -11,7 +11,7 @@
 
 ### 🌱 Currently Learning
 - 📘 **Database** 
-- 🌐 **Full Stack Development** (HTML, CSS, JavaScript, Tailwind, Flask, MongoDB)
+- 🌐 **Full Stack Development** (HTML, CSS, JavaScript, Tailwind, Flask, Postgres)
 
 ---
 

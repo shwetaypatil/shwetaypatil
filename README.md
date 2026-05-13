@@ -4,14 +4,14 @@
 ---
 
 ### 🌱 Currently Working As
-- 💼 **Software Developer**  
+- 💼 **Web Developer**  
 - 🔧 Building real-world applications using **Java, Python, Android Studio, Flask, and modern web technologies**
 
 ---
 
 ### 🌱 Currently Learning
 - 📘 **Database** 
-- 🌐 **Full Stack Development** (HTML, CSS, JavaScript, Tailwind, Flask, Postgres)
+- 🌐 **React.js** 
 
 ---
 
